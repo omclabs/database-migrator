@@ -1,6 +1,6 @@
-Node JS Sequelize DB Migrator
+# Node JS Sequelize DB Migrator #
 
-How do I get set up?
+### How do I get set up? ###
 
 \*\*\* Requirement
 
@@ -16,6 +16,6 @@ How do I get set up?
 - type `npm run seed` to run db seeding
 - type `npm run seed-undo` to undo db seeding
 
-Who do I talk to?
+### Who do I talk to? ###
 
 - Fajar Pratama - omclabs@gmail.com
